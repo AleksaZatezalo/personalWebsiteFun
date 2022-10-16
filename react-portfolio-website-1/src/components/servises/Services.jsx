@@ -16,15 +16,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck/>
-                <p> Service 1</p>
+                <p> Pentration Testing</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 2</p>
+                <p> Agile Application Security</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 3</p>
+                <p> Implementing Security Monitoring</p>
               </li>
             </ul>
         </article>
@@ -37,15 +37,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck/>
-                <p> Service 1</p>
+                <p> Cloud Architecture & Migration</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 2</p>
+                <p> Zero Trust</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 3</p>
+                <p> Creating CI/CD Pipeliens</p>
               </li>
             </ul>
         </article>
@@ -60,15 +60,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck/>
-                <p> Service 1</p>
+                <p> A.I For Cyber Security</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 2</p>
+                <p> Defensive Coding</p>
               </li>
               <li>
                 <BiCheck/>
-                <p> Service 3</p>
+                <p> Bespoke Security Tools</p>
               </li>
             </ul>
         </article>
