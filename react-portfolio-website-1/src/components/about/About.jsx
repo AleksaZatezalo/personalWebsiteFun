@@ -26,16 +26,15 @@ const About = () => {
                     <article className='about__card'>
                         <FiUsers className='about__icon'/>
                         <h5>Clients:</h5>
-                        <small>5</small>
+                        <small>2</small>
                     </article>
                     <article className='about__card'>
                         <VscFolderLibrary className='about__icon'/>
                         <h5>Projects:</h5>
-                        <small>10</small>
+                        <small>2</small>
                     </article>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At eveniet soluta fuga est similique adipisci qui labore ducimus repellat eaque, quam eligendi, expedita eum vel itaque pariatur sed consequatur obcaecati.
-                    </p>
+                <p>Aleksa is a Cloud Security Consultant at Deloitte. He has  a passion for Penetration Testing, Web and Mobile Development, and Secure Software Architecture in the cloud. Currently he is pursuing his OSCP and learning to delpy A.I into the cloud to detect adversarial input. He posseses the CEH v10 and a B.Sc in Computer Science from the University of Toronto.</p>
                     <a href='#contacts' className='btn btn-primary'>Let's Talk</a>
               </div>
            </div>
