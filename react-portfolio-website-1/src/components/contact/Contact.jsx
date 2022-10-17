@@ -3,6 +3,7 @@ import "./contact.css"
 import {MdOutlineEmail} from 'react-icons/md'
 
 const Contact = () => {
+
     return (
         <section id='contact'>
             <h5>Get In Touch</h5>
