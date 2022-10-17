@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "emailjs-com": "^3.2.0"
-  }
+  },
+  "name": "mysite",
+  "description": "A personal website created using the MERN stack. It's meant to act as a portfolio of all my work, and skills as a software developer and cyber security expert. Created using the scroll view.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksaZatezalo/PersonalWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksaZatezalo/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/AleksaZatezalo/PersonalWebsite#readme"
 }

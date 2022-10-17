@@ -35,7 +35,7 @@ const About = () => {
                     </article>
                 </div>
                 <p>Aleksa is a Cloud Security Consultant at Deloitte. He has  a passion for Penetration Testing, Web and Mobile Development, and Secure Software Architecture in the cloud. Currently he is pursuing his OSCP and learning to delpy A.I into the cloud to detect adversarial input. He posseses the CEH v10 and a B.Sc in Computer Science from the University of Toronto.</p>
-                    <a href='#contacts' className='btn btn-primary'>Let's Talk</a>
+                    <a href='#contact' className='btn btn-primary'>Let's Talk</a>
               </div>
            </div>
        </section>
