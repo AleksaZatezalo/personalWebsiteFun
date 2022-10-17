@@ -12,14 +12,7 @@ const Experiance = () => {
                 <div className='experiance__cloudSec'>
                     <h3> Cloud Security</h3>
                     <div className="experiance__content">
-                        <article className='experiance__details'>
-                            <BsPatchCheckFill className='experiance__details-icon '/>
-                            <div>
-                                <h4>Azure Active Directory</h4>
-                                <small className='text-light'>Experainced</small>
-                            </div>
-                        
-                        </article>
+                       
                         <article className='experiance__details'>
                             <BsPatchCheckFill className='experiance__details-icon '/>
                             <div>
@@ -63,6 +56,24 @@ const Experiance = () => {
                             <BsPatchCheckFill className='experiance__details-icon '/>
                             <div>
                                 <h4>Microsoft Azure</h4>
+                                <small className='text-light'>Experainced</small>
+                            </div>
+                            
+                        </article>
+
+                        <article className='experiance__details'>
+                            <BsPatchCheckFill className='experiance__details-icon '/>
+                            <div>
+                                <h4>GCP</h4>
+                                <small className='text-light'>Experainced</small>
+                            </div>
+                            
+                        </article>
+
+                        <article className='experiance__details'>
+                            <BsPatchCheckFill className='experiance__details-icon '/>
+                            <div>
+                                <h4>AWS</h4>
                                 <small className='text-light'>Experainced</small>
                             </div>
                             
