@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df676519.css",
+    "main.js": "/static/js/main.f660c837.js",
+    "static/media/cv.docx.pdf": "/static/media/cv.docx.d473246e6ffed8c09bd6.pdf",
+    "static/media/password-input-control.jpg": "/static/media/password-input-control.ecdb23e5c8f6f93e6207.jpg",
+    "static/media/aleksa.jpg": "/static/media/aleksa.e459e513b161db67f015.jpg",
+    "static/media/quiz.png": "/static/media/quiz.b8d7e446b46587aa338c.png",
+    "static/media/checkList.png": "/static/media/checkList.7638cd255873f9f9ba7a.png",
+    "index.html": "/index.html",
+    "main.df676519.css.map": "/static/css/main.df676519.css.map",
+    "main.f660c837.js.map": "/static/js/main.f660c837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df676519.css",
+    "static/js/main.f660c837.js"
+  ]
+}
